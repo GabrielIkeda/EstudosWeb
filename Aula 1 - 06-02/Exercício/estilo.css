@@ -1,0 +1,30 @@
+body
+{
+    background-color: #f9f0d9;
+}
+
+h1
+{
+    text-align: center;
+    
+}
+
+h2
+{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 3em;
+}
+
+h3
+{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1,5em;
+}
+img
+{
+    margin-bottom: 20px;
+    max-height: 900px;
+    max-width: 950px;
+}
